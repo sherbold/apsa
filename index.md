@@ -1,14 +1,15 @@
 ---
 layout: default
-page.title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
+title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 ---
 
-# [](#header-1)1st International Workshop on Anti-Patterns for Software Analytics (APSA)
+# [](#header-1)Scope and Motivation
 
+To be announced
 
 # [](#header-1)Call for Papers
 
-Foobar
+To be announced
 
 # [](#header-1)Important Dates
 
