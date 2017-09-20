@@ -1,15 +1,27 @@
 ---
 layout: default
+page.title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 
-[Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+# [](#header-1)Call for Papers
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Foobar
 
-# [](#header-1)Header 1
+# [](#header-1)Important Dates
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+To be announced
+
+# [](#header-1)Program
+
+To be announced
+
+# [](#header-1)Organization
+
+To be announced
+
+# [](#header-1)Program Committee
+
+To be announced
