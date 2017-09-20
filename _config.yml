@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 description: Co-located with TBA
+github.is_project_page: false
