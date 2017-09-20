@@ -1,6 +1,10 @@
 ---
 layout: default
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
+site.title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
+site.description: Co-located with the FOOBAR Conference
+site.github.is_project_page: false
+site.show_downloads: false
 ---
 
 # [](#header-1)Scope and Motivation
