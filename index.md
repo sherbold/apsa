@@ -3,7 +3,7 @@ layout: default
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 ---
 
-# [](#header-1)Scope and Motivation
+# [](#scope)Scope and Motivation
 
 In this data-driven economy, as society makes increasing use of data mining technology, it is now more important to that our community has a shared understanding on how to assess the results coming out of those data miners. Recent results experience shows that, in the arena of software analytics, we do not share that understanding. 
 
@@ -19,28 +19,28 @@ Accordingly, we invite researchers to present lists of anti-patterns they see as
 
 Our aim is to use these anti-patterns as foundation to create guidelines for how to conduct research. The workshop shall serve as open forum for the community to express their concerns and get involved in the development of guidelines for both authors and reviewers to ensure a consistent quality in software analytic research. Therefore, this will be a highly interactive workshop with short presentations 5-10 minute presentations of anti-patterns followed by breakout sessions where we will seek common ground and potential solutions. 
 
-# [](#header-1)Call for Papers
+# [](#cfp)Call for Papers
 
 To be announced
 
-# [](#header-1)Important Dates
+# [](#dates)Important Dates
 
 | Submissions due      | Monday, February 05, 2018 |
 | Notification         | Monday, March 5, 2018     |
 | Camera-ready version | Monday, March 19, 2018    |
 | Date of the workshop | TBA                       |
 
-# [](#header-1)Program
+# [](#program)Program
 
 To be announced
 
-# [](#header-1)Organization
+# [](#orga)Organization
 
-# [](#header-2)General Chair
+## [](#generalchair)General Chair
 
 - Steffen Herbold, University of Göttingen, Germany
 
-# [](#header-2) Organizers
+## [](#organizers)Organizers
 
 - Steffen Herbold, University of Göttingen, Germany
 - Ahmed E. Hassan, Queens University, Canada
@@ -49,6 +49,6 @@ To be announced
 - Martin Shepperd, Brunel University London, UK
 - Lin Tan, University of Waterloo, Canada
 
-# [](#header-1)Program Committee
+# [](#pc)Program Committee
 
 To be announced
