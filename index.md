@@ -36,7 +36,18 @@ To be announced
 
 # [](#header-1)Organization
 
-To be announced
+# [](#header-2)General Chair
+
+- Steffen Herbold, University of Göttingen, Germany
+
+# [](#header-2) Organizers
+
+- Steffen Herbold, University of Göttingen, Germany
+- Ahmed E. Hassan, Queens University, Canada
+- Shane McIntosh, McGill University, Canada
+- Tim Menzies, North Carolina State University, USA
+- Martin Shepperd, Brunel University London, UK
+- Lin Tan, University of Waterloo, Canada
 
 # [](#header-1)Program Committee
 
