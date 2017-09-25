@@ -1,10 +1,6 @@
 ---
 layout: default
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
-site.title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
-site.description: Co-located with the FOOBAR Conference
-site.github.is_project_page: false
-site.show_downloads: false
 ---
 
 # [](#header-1)Scope and Motivation
@@ -17,7 +13,10 @@ To be announced
 
 # [](#header-1)Important Dates
 
-To be announced
+| Submissions due      | Monday, February 05, 2018 |
+| Notification         | Monday, March 5, 2018     |
+| Camera-ready version | Monday, March 19, 2018    |
+| Date of the workshop | TBA                       |
 
 # [](#header-1)Program
 
