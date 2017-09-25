@@ -19,9 +19,15 @@ Accordingly, we invite researchers to present lists of anti-patterns they see as
 
 Our aim is to use these anti-patterns as foundation to create guidelines for how to conduct research. The workshop shall serve as open forum for the community to express their concerns and get involved in the development of guidelines for both authors and reviewers to ensure a consistent quality in software analytic research. Therefore, this will be a highly interactive workshop with short presentations 5-10 minute presentations of anti-patterns followed by breakout sessions where we will seek common ground and potential solutions. 
 
-# [](#cfp)Call for Papers
+# [](#submissions)Submissions
 
-To be announced
+We are seeking short papers with up to 4 pages that describe anti-pattens you frequently see in published papers or during peer review of papers that involve software analytics. All submissions must follow the [https://www.acm.org/publications/proceedings-template](ACM formatting guidelines). 
+
+Papers will be evaluated based on the clarity of the description of the anti-patterns, with respect to not only what the anti-patterns are, but also their potential negative consequences. Solutions on how to avoid the anti-patterns are not a requirement, but a bonus that can help shape future guidelines. 
+
+Papers must be submitted electronically, in PDF format. Submissions should be made at the following website: https://easychair.org/conferences/?conf=ADDEDIFACCEPTED
+
+Accepted papers will be published as an ICSE 2018 Workshop Proceedings in the ACM and IEEE Digital Libraries and will be distributed to the workshop participants. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2018. The official publication date affects the deadline for any patent filings related to published work.
 
 # [](#dates)Important Dates
 
