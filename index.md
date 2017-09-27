@@ -49,7 +49,6 @@ To be announced
 ## [](#organizers)Organizers
 
 - Steffen Herbold, University of Göttingen, Germany
-- Ahmed E. Hassan, Queens University, Canada
 - Shane McIntosh, McGill University, Canada
 - Tim Menzies, North Carolina State University, USA
 - Martin Shepperd, Brunel University London, UK
