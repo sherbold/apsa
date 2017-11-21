@@ -25,9 +25,9 @@ We are seeking short papers with up to 4 pages that describe anti-pattens you fr
 
 Papers will be evaluated based on the clarity of the description of the anti-patterns, with respect to not only what the anti-patterns are, but also their potential negative consequences. Solutions on how to avoid the anti-patterns are not a requirement, but a bonus that can help shape future guidelines. Papers must not be about pillorying individuals, but should provide a constructive analysis of the anti-patterns. 
 
-Papers must be submitted electronically, in PDF format. Submissions should be made at the following website: [https://easychair.org/conferences/?conf=ADDEDIFACCEPTED](https://easychair.org/conferences/?conf=ADDEDIFACCEPTED)
+Papers must be submitted electronically, in PDF format. Submissions should be made at the following website: [https://easychair.org/conferences/?conf=apsa2018]( https://easychair.org/conferences/?conf=apsa2018)
 
-Accepted papers will be published as an ICSE 2018 Workshop Proceedings in the ACM and IEEE Digital Libraries and will be distributed to the workshop participants. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2018. The official publication date affects the deadline for any patent filings related to published work.
+Accepted papers will be published as ICSE 2018 Workshop Proceedings in the ACM and IEEE Digital Libraries and will be distributed to the workshop participants. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2018. The official publication date affects the deadline for any patent filings related to published work.
 
 # [](#dates)Important Dates
 
