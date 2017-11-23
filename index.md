@@ -23,7 +23,7 @@ Our aim is to use these anti-patterns as foundation to create guidelines for how
 
 We are seeking short papers with up to 4 pages that describe anti-pattens you frequently see in published papers or during peer review of papers that involve software analytics. All submissions must follow the [ACM formatting guidelines](https://www.acm.org/publications/proceedings-template). 
 
-Papers will be evaluated based on the clarity of the description of the anti-patterns, with respect to not only what the anti-patterns are, but also their potential negative consequences. Solutions on how to avoid the anti-patterns are not a requirement, but a bonus that can help shape future guidelines. Papers must not be about pillorying individuals, but should provide a constructive analysis of the anti-patterns. 
+Papers will be evaluated based on the clarity of the description of the anti-patterns, with respect to not only what the anti-patterns are, but also their potential negative consequences. Solutions on how to avoid the anti-patterns are not a requirement, but a bonus that can help shape future guidelines. Papers must not be about pillorying individuals, but should provide a constructive analysis of the anti-patterns. While citing papers as positive or negative examples is in principle allowed, we recommend short examples of the anti-patterns in the submissions instead. 
 
 Papers must be submitted electronically, in PDF format. Submissions should be made at the following website: [https://easychair.org/conferences/?conf=apsa2018]( https://easychair.org/conferences/?conf=apsa2018)
 
