@@ -56,4 +56,13 @@ To be announced
 
 # [](#pc)Program Committee
 
-To be announced
+ - David Bowes, University of Hertfordshire, UK
+ - Tracy Hall, Brunel University London, UK
+ - Ahmed E. Hassan, Queen's University, Canada
+ - David Lo, Singapore Management University, Singapore
+ - Lech Madeyski, Wroclaw University of Science and Technology, Poland
+ - Jaechang Nam, POSTECH, Koreo
+ - Tom Zimmermann, Microsoft Research, USA
+ - to be completed
+
+
