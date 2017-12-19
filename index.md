@@ -62,6 +62,7 @@ To be announced
  - David Lo, Singapore Management University, Singapore
  - Lech Madeyski, Wroclaw University of Science and Technology, Poland
  - Jaechang Nam, POSTECH, Koreo
+ - Burak Turhan, Brunel University London, UK
  - Tom Zimmermann, Microsoft Research, USA
  - to be completed
 
