@@ -6,7 +6,7 @@ author:
   name: Steffen Herbold
   twitter: HerboldSteffen
 
- defaults:
+defaults:
   - scope:
       path: "assets/logo.png"
     values:
