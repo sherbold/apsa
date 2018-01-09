@@ -3,7 +3,7 @@ layout: default
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 ---
 
-![Image](assets/large-icon.png)
+<div align="right"><img src="./assets/large-icon.png" alt="ICSE Logo" width="200"/></div>
 
 # [](#scope)Scope and Motivation
 
