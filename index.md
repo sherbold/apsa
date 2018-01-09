@@ -61,9 +61,8 @@ To be announced
  - Ahmed E. Hassan, Queen's University, Canada
  - David Lo, Singapore Management University, Singapore
  - Lech Madeyski, Wroclaw University of Science and Technology, Poland
- - Jaechang Nam, POSTECH, Koreo
+ - Audris Mockus, University of Tennessee, USA
+ - Jaechang Nam, POSTECH, Korea
  - Burak Turhan, Brunel University London, UK
  - Tom Zimmermann, Microsoft Research, USA
- - to be completed
-
 
