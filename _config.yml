@@ -5,3 +5,9 @@ github.is_project_page: false
 author:
   name: Steffen Herbold
   twitter: HerboldSteffen
+
+ defaults:
+  - scope:
+      path: "assets/logo.png"
+    values:
+      image: true

@@ -3,6 +3,8 @@ layout: default
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 ---
 
+<img src="/assets/logo.png" />
+
 # [](#scope)Scope and Motivation
 
 In this data-driven economy, as society makes increasing use of data mining technology, it is now more important to that our community has a shared understanding on how to assess the results coming out of those data miners. Recent results experience shows that, in the arena of software analytics, we do not share that understanding. 
