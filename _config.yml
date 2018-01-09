@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
-description: In conjunction with ICSE 2018, Gothenburg, Sweden on 2 June 2018
+description: In conjunction with ICSE 2018, Gothenburg, Sweden on 2 June 2018<div align="right"><img src="./assets/large-icon.png" alt="ICSE Logo" width="200" /></div>
 github.is_project_page: false
 author:
   name: Steffen Herbold
