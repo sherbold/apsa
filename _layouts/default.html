@@ -11,10 +11,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <section class="page-header">
+    <!--<section class="page-header">-->
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-    </section>
+      <div align="right"><img src="./assets/large-icon.png" alt="ICSE Logo" width="200" /></div>
+    <!--</section>-->
 
     <section class="main-content">
       {{ content }}
