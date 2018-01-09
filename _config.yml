@@ -8,6 +8,6 @@ author:
 
 defaults:
   - scope:
-      path: "assets/logo.png"
+      path: "assets/large-icon.png"
     values:
       image: true
