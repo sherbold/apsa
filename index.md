@@ -5,7 +5,7 @@ title: 1st International Workshop on Anti-Patterns for Software Analytics (APSA)
 
 **[Scope and Motivation](#scope) -  [Submissions](#submissions) - [Important Dates](#dates) - [Organization](#orga)**
 
-# [](#scope)Scope and Motivation
+# [scope](#scope)Scope and Motivation
 
 In this data-driven economy, as society makes increasing use of data mining technology, it is now more important to that our community has a shared understanding on how to assess the results coming out of those data miners. Recent results experience shows that, in the arena of software analytics, we do not share that understanding. 
 
@@ -21,7 +21,7 @@ Accordingly, we invite researchers to present lists of anti-patterns they see as
 
 Our aim is to use these anti-patterns as foundation to create guidelines for how to conduct research. The workshop shall serve as open forum for the community to express their concerns and get involved in the development of guidelines for both authors and reviewers to ensure a consistent quality in software analytic research. Therefore, this will be a highly interactive workshop with short presentations 5-10 minute presentations of anti-patterns followed by breakout sessions where we will seek common ground and potential solutions. 
 
-# [](#submissions)Submissions
+# [submissions](#submissions)Submissions
 
 We are seeking short papers with up to 4 pages that describe anti-pattens you frequently see in published papers or during peer review of papers that involve software analytics. All submissions must follow the [ACM formatting guidelines](https://www.acm.org/publications/proceedings-template). 
 
@@ -31,7 +31,7 @@ Papers must be submitted electronically, in PDF format. Submissions should be ma
 
 Accepted papers will be published as ICSE 2018 Workshop Proceedings in the ACM and IEEE Digital Libraries and will be distributed to the workshop participants. The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2018. The official publication date affects the deadline for any patent filings related to published work.
 
-# [](#dates)Important Dates
+# [dates](#dates)Important Dates
 
 | Submissions due      | Monday, February 05, 2018 |
 | Notification         | Monday, March 5, 2018     |
@@ -42,7 +42,7 @@ Accepted papers will be published as ICSE 2018 Workshop Proceedings in the ACM a
 
 To be announced
 
-# [](#orga)Organization
+# [orga](#orga)Organization
 
 ## [](#generalchair)General Chair
 
