@@ -33,7 +33,7 @@ Accepted papers will be published as ICSE 2018 Workshop Proceedings in the ACM a
 
 # [](#dates)Important Dates
 
-| Submissions due      | Monday, February 05, 2018 |
+| Submissions due      | Monday, February ~~05~~ 12, 2018 |
 | Notification         | Monday, March 5, 2018     |
 | Camera-ready version | Monday, March 19, 2018    |
 | Date of the workshop | Saturday, June 2, 2018    |
